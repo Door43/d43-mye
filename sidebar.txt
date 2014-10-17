@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mye:home|Door43 (mye)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mye|d43-mye repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mye/archive/master.zip|d43-mye.zip]]
+
+**Recent Changes**
+{{changes>ns = mye}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mye|Ethnologue data]]
+
